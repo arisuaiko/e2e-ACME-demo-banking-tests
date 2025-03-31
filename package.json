@@ -1,0 +1,23 @@
+{
+  "name": "e2e-acme-demo-banking-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arisuaiko/e2e-ACME-demo-banking-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arisuaiko/e2e-ACME-demo-banking-tests/issues"
+  },
+  "homepage": "https://github.com/arisuaiko/e2e-ACME-demo-banking-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14",
+    "playwright": "^1.51.1"
+  }
+}
